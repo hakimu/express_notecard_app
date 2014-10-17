@@ -1,0 +1,11 @@
+{
+	"name" : "express_notecard_app",
+	"version" : "0.0.1",
+	"private" : "true",
+	"dependencies" :{
+		"newrelic" : "*",
+		"express" : "~4.0.0",
+		"jade" : "*",
+		"mongoose" : "*"
+	}
+}

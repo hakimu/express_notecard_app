@@ -1,0 +1,12 @@
+{"name":"newrelic","hostname":"hakimu-mbp","pid":73095,"level":30,"msg":"Starting New Relic for Node.js connection process.","time":"2014-10-06T07:06:37.848Z","v":0}
+{"name":"newrelic","hostname":"hakimu-mbp","pid":73095,"component":"new_relic_response","level":30,"msg":"Reporting to: https://rpm.newrelic.com/accounts/527930/applications/4000157","time":"2014-10-06T07:06:38.674Z","v":0}
+{"name":"newrelic","hostname":"hakimu-mbp","pid":73095,"component":"collector_api","level":30,"msg":"Connected to collector-111.newrelic.com:443 with agent run ID 1521074136.","time":"2014-10-06T07:06:38.674Z","v":0}
+{"name":"newrelic","hostname":"hakimu-mbp","pid":2383,"level":30,"msg":"Starting New Relic for Node.js connection process.","time":"2014-10-09T00:21:43.187Z","v":0}
+{"name":"newrelic","hostname":"hakimu-mbp","pid":2383,"component":"new_relic_response","level":30,"msg":"Reporting to: https://rpm.newrelic.com/accounts/527930/applications/4000157","time":"2014-10-09T00:21:44.155Z","v":0}
+{"name":"newrelic","hostname":"hakimu-mbp","pid":2383,"component":"collector_api","level":30,"msg":"Connected to collector-111.newrelic.com:443 with agent run ID 1527258597.","time":"2014-10-09T00:21:44.155Z","v":0}
+{"name":"newrelic","hostname":"hakimu-mbp","pid":2459,"level":30,"msg":"Starting New Relic for Node.js connection process.","time":"2014-10-09T01:07:06.945Z","v":0}
+{"name":"newrelic","hostname":"hakimu-mbp","pid":2469,"level":30,"msg":"Starting New Relic for Node.js connection process.","time":"2014-10-09T01:11:06.817Z","v":0}
+{"name":"newrelic","hostname":"hakimu-mbp","pid":2476,"level":30,"msg":"Starting New Relic for Node.js connection process.","time":"2014-10-09T01:16:18.819Z","v":0}
+{"name":"newrelic","hostname":"hakimu-mbp","pid":8252,"level":30,"msg":"Starting New Relic for Node.js connection process.","time":"2014-10-17T01:06:38.222Z","v":0}
+{"name":"newrelic","hostname":"hakimu-mbp","pid":8252,"component":"new_relic_response","level":30,"msg":"Reporting to: https://rpm.newrelic.com/accounts/527930/applications/4000157","time":"2014-10-17T01:06:39.085Z","v":0}
+{"name":"newrelic","hostname":"hakimu-mbp","pid":8252,"component":"collector_api","level":30,"msg":"Connected to collector-111.newrelic.com:443 with agent run ID 1544775902.","time":"2014-10-17T01:06:39.085Z","v":0}
